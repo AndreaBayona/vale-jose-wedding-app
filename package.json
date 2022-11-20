@@ -1,6 +1,7 @@
 {
   "name": "valerie-wedding-app",
   "version": "0.1.0",
+  "homepage": "https://AndreaBayona.github.io/vale-jose-wedding-app",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
